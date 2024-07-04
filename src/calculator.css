@@ -1,0 +1,9 @@
+.calculator {
+    width: 450px;
+    margin: 100px auto;
+  }
+  
+  .button-row {
+    display: flex;
+  }
+  
